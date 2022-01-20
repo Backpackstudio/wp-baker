@@ -18,8 +18,15 @@ Script 'WP-Baker' helps to reduce amount of manual work needed to prepare WordPr
 
 Script is meant to use on terminal. 
 
-- Navigate for first into directory of new site root.
+- Navigate for first into directory of new site root where to you want install WordPress.
 - Download script into site root
 - Run the script
 - Follow on-screen instructions
+
+
+
+```shell
+curl https://raw.githubusercontent.com/Backpackstudio/wp-baker/master/wpbaker.sh -o wpbaker.sh
+sh wpbaker.sh
+```
 
